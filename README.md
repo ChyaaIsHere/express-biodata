@@ -10,6 +10,7 @@ buat sebuah data biodata diri yang mencakup data
 **buatkan sistem : get, get by id, post**
 
 dengan API:
-```GET /biodata
-GET /biodata/:id
-POST /biodata/post
+```
+GET /biodata >> mengambil semua data
+GET /biodata/:id >> mengambil data berdasarkan id yang dimaksud
+POST /biodata/post >> membuat data baru dengan menginputnya ke body {}
