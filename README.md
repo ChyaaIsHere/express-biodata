@@ -8,9 +8,7 @@ buat sebuah data biodata diri yang mencakup data
 - nomor telepon
 **buatkan sistem : get, get by id, post**
 
-dengan API
-> GET /biodata
-
-> GET /biodata/:id
-
-> POST /biodata/post
+dengan API:
+```GET /biodata
+GET /biodata/:id
+POST /biodata/post
