@@ -6,6 +6,7 @@ buat sebuah data biodata diri yang mencakup data
 - alamat
 - sosial media
 - nomor telepon
+
 **buatkan sistem : get, get by id, post**
 
 dengan API:
